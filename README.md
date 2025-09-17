@@ -1,2 +1,2 @@
-# custom-model
+# Custom-Model
 Google colab custom model generation
